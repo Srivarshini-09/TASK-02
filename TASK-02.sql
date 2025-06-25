@@ -1,3 +1,6 @@
+-- Select the database to use for the session
+USE ECommerceDB;
+
 -- Step 8: Insert values into Table 
 INSERT INTO category(Name,Description) 
 VALUES('Electronics','Devices and gadgets'),
