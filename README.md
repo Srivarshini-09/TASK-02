@@ -27,7 +27,7 @@ Practice the following SQL operations:
 
 ## 📂 What's Included
 
-The SQL file (`task2_insertion.sql`) performs the following:
+The SQL file (`TASK-02.sql`) performs the following:
 
 ### ✅ Data Insertion
 - Added sample data into tables: `Category`, `Product`, `Customer`, `Orders`, `OrderItem`, and `Payment`.
